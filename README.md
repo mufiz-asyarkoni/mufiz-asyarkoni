@@ -90,11 +90,6 @@ Here are some things about me:
     
 ### 🔬 IDE + Tools
 <table width="460px">
-    <thead>
-        <tr valign="top">
-            <th scope="col">Code Editor</th>
-        </tr>
-    </thead>
     <tbody>
         <tr valign="top">
             <td width="250px" align="center">
@@ -134,20 +129,20 @@ Here are some things about me:
         </tr>
         <tr valign="top">
             <td width="250px" align="center">
-            <span><strong>Notepad</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/en/2/2a/Notepad.png">
+            <span><strong>Photoshop</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
             </td>
             <td width="250px" align="center">
-            <span><strong>Visual Studio Code</strong></span><br>
-            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+            <span><strong>Illustrator</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
             </td>
             <td width="250px" align="center">
-            <span><strong>Notepad++</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg">
+            <span><strong>XD</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
             </td>
             <td width="250px" align="center">
-            <span><strong>Codepen</strong></span><br>
-            <img height="32px" src="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg">
+            <span><strong>Figma</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
             </td>
         </tr>
     </tbody>
