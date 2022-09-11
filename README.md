@@ -1,4 +1,4 @@
-<h2 dir="auto">Hello Visitor! <img src="https://media2.giphy.com/media/FxAYkQqdw63hC/giphy.gif?cid=ecf05e477oz2lvpgcdtc8xhhcytwf9gcp5wim7tspntp11qr&rid=giphy.gif&ct=s" width="30" height="30" alt="hi" style="max-width: 100%;"></h2>
+<h2 dir="auto"><img src="https://media2.giphy.com/media/nJuVajYlaonyrru5zT/giphy.gif?cid=790b7611c7e0b448c5bc0be2eba579333414ca7204b10f07&rid=giphy.gif&ct=s" width="50" height="50" alt="hi"> Hello Visitor! </h2>
 Welcome to my Github Profile 😁
 
 <h2 dir="auto">👦 About Me</h2>
