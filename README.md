@@ -16,77 +16,77 @@ Here are some things about me:
 <table width="460px">
     <tbody>
         <tr valign="top">
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>Python</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>Java</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>Kotlin</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>PHP</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>C#</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>HTML</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>JavaScript</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>Bash</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
             </td>
         </tr> 
         <tr valign="top">
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>PyTorch</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>IntelliJ</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>Ktor</strong></span><br>
             <img height="32px" src="https://ktor.io/docs/images/ktor_logo.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>Laravel</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>.NET</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>Bootstrap</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>Tailwind</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>NodeJS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
             <span><strong>MikroTik</strong></span><br>
             <img height="32px" src="https://mikrotik.com/img/mtv2/newlogo.svg">
             </td>
