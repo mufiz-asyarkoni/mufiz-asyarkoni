@@ -157,6 +157,7 @@ Here are some things about me:
     </tbody>
 </table>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufizmq)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 dir="auto">📋 Research + Development</h2>
  <ul dir="auto">
