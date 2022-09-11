@@ -1,5 +1,5 @@
 <h2 dir="auto">Hello Visitor! 👋</h2>
-Welcome to my Github Profile
+Welcome to my Github Profile 😁
 
 <h2 dir="auto">👦 About Me</h2>
 Here are some things about me:
