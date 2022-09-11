@@ -91,8 +91,9 @@ Here are some things about me:
 ### 🔬 IDE + Tools
 <table width="460px">
     <thead>
-            <th scope="col">Items</th>
-            <th scope="col">Expenditure</th>
+        <tr valign="top">
+            <th scope="col">Code Editor</th>
+        </tr>
     </thead>
     <tbody>
         <tr valign="top">
