@@ -102,7 +102,7 @@ Here are some things about me:
             </td>
             <td width="250px" align="center">
             <span><strong>Notepad++</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png">
             </td>
             <td width="250px" align="center">
             <span><strong>Codepen</strong></span><br>
