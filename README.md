@@ -13,7 +13,7 @@ Here are some things about me:
 - 📩 How to reach me: haloo@mufiz.dev
 
 ### ☂ Languages + Frameworks
-<table width="360px">
+<table width="560px">
     <tbody>
         <tr valign="top">
             <td width="90px" align="center">
