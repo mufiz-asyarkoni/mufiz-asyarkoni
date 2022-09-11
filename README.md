@@ -10,7 +10,7 @@ Here are some things about me:
 - 💬 Ask me about: <code>Web App Dev</code>, <code>Android App</code>, <code>Desktop App</code>, <code>Machine Learning</code>, <code>Data Mining</code>, <code>Networking</code>
 - 📚 Skills other than tech: <code>Accounting</code>, <code>Economic Analysis</code>, <code>Project Evaluation</code>, <code>Business Development</code>
 - 📫 Stay in Pakis, Malang, Indonesia
-- 📩 How to reach me: haloo@mufiz.dev
+- 📩 How to reach me: email.(haloo@mufiz.dev) & whatsapp.(+628998957691)
 
 ### ☂ Languages + Frameworks
 <table width="460px">
