@@ -159,9 +159,21 @@ Here are some things about me:
 
 
 <h2 dir="auto">📋 Research + Development</h2>
+    <div>
 - <b>MawarizCalculator</b>: A windows application that is able to perform inheritance calculations for heirs based on the rules and regulations according to Islamic Shari'a or Fiqh Mawaris.
+    </div>
+    <div>
 - <b>WajahKampus</b>: A website-based platform that is able to display data (with photos) of students or alumni from a university in Indonesia based on their name or NIM.
+    </div>
+    <div>
 - <b>IndoBI</b>: A BI (business intelligence) platform capable of providing summary and business decisions based on open data through macro and micro parameters.
+    </div>
+    <div>
 - <b>KoonekTik</b>: A website-based ERP platform for integrated management for internet service providers. With features consisting of finance, employee management, assignments, network provisioning, to project management.
+    </div>
+    <div>
 - <b>GOPA Dashboard</b>: A website-based admin dashboard capable of automatic input of player data (score, rank, etc.) from a mobile game (Android/iOS) to the backend database via a packet sniffer.
+    </div>
+    <div>
 - <b>And many others...</b>
+    </div>
