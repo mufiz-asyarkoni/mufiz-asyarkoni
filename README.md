@@ -94,7 +94,7 @@ Here are some things about me:
     </tbody>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufiz-asyarkoni&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufiz-asyarkoni&langs_count=8&border_color=000000&card_width=1000)
 
 
 <h2 dir="auto">🔬 IDE + Tools</h2>
@@ -157,7 +157,7 @@ Here are some things about me:
     </tbody>
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufiz-asyarkoni)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufiz-asyarkoni&border_color=000000&card_width=1000)
 
 <h2 dir="auto">📋 Research + Development</h2>
  <ul dir="auto">
