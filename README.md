@@ -5,8 +5,8 @@ Welcome to my Github Profile
 
 Here are some things about me:
 
-- 🔭 Working at: <a href="https://www.koonek.net"><code>PT. Kooneksi Internet Indonesia</code><a>, <a href="https://www.samenterprise.co.id"><code>PT. Sam Enterprises Indonesia</code><a>, <a href="https://www.gilga.co.id"><code>PT. Gilga Consulting Group</code><a>
-- 🌱 Currently working on some project: <code>PHP/Laravel</code>, <code>JavaScript/NodeJS</code>, <code>REST API</code>
+- ⚔ Working at: <a href="https://www.koonek.net"><code>PT. Kooneksi Internet Indonesia</code><a>, <a href="https://www.samenterprise.co.id"><code>PT. Sam Enterprises Indonesia</code><a>, <a href="https://www.gilga.co.id"><code>PT. Gilga Consulting Group</code><a>
+- 🕹 Currently working on some project: <code>PHP/Laravel</code>, <code>JavaScript/NodeJS</code>, <code>REST API</code>
 - 💬 Ask me about: <code>Web App Dev</code>, <code>Android App</code>, <code>Desktop App</code>, <code>Machine Learning</code>, <code>Data Mining</code>, <code>Networking</code>
 - 📚 Skills other than tech: <code>Accounting</code>, <code>Economic Analysis</code>, <code>Project Evaluation</code>, <code>Business Development</code>
 - 📫 Stay in Pakis, Malang, Indonesia
