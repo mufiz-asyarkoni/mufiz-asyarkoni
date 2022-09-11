@@ -25,6 +25,10 @@ Here are some things about me:
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
             <td width="90px" align="center">
+            <span><strong>Kotlin</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+            </td>
+            <td width="90px" align="center">
             <span><strong>PHP</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
             </td>
@@ -57,6 +61,10 @@ Here are some things about me:
             <td width="90px" align="center">
             <span><strong>IntelliJ</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+            </td>
+            <td width="90px" align="center">
+            <span><strong>Ktor</strong></span><br>
+            <img height="32px" src="https://ktor.io/docs/images/ktor_logo.svg">
             </td>
             <td width="90px" align="center">
             <span><strong>Laravel</strong></span><br>
