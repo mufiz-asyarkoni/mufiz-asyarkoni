@@ -13,7 +13,7 @@ Here are some things about me:
 - 📩 How to reach me: haloo@mufiz.dev
 
 ### ☂ Languages + Frameworks
-<table width="400px">
+<table width="460px">
     <tbody>
         <tr valign="top">
             <td width="90px" align="center">
@@ -89,7 +89,28 @@ Here are some things about me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufizmq&layout=compact](https://github.com/anuraghazra/github-readme-stats)
     
 ### 🔬 IDE + Tools
-- Visual Studio Code
+<table width="460px">
+    <tbody>
+        <tr valign="top">
+            <td width="150px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="150px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
+            <td width="150px" align="center">
+            <span><strong>PHP</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+            </td>
+            <td width="150px" align="center">
+            <span><strong>C#</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 ### 📋 Research + Development
