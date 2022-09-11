@@ -12,7 +12,7 @@ Here are some things about me:
 - 📫 Stay in Pakis, Malang, Indonesia
 - 📩 How to reach me: haloo@mufiz.dev
 
-### ⚙️ Languages + Frameworks
+### ☂ Languages + Frameworks
 <table width="320px">
     <tbody>
         <tr valign="top">
