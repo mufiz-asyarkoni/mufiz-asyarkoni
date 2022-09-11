@@ -6,7 +6,7 @@ Here are some things about me:
 
 - ⚔ Working at: <a href="https://www.koonek.net"><code>PT. Kooneksi Internet Indonesia</code><a>, <a href="https://www.samenterprise.co.id"><code>PT. Sam Enterprises Indonesia</code><a>, <a href="https://www.gilga.co.id"><code>PT. Gilga Consulting Group</code><a>
 - 🕹 Currently working on some project: <code>PHP/Laravel</code>, <code>JavaScript/NodeJS</code>, <code>REST API</code>
-- 💬 Ask me about: <code>Web App Dev</code>, <code>Android App</code>, <code>Desktop App</code>, <code>Machine Learning</code>, <code>Data Mining</code>, <code>Networking</code>
+- 💬 Ask me about: <code>Web App Dev</code>, <code>Android App</code>, <code>Desktop App</code>, <code>Machine Learning</code>, <code>Data Mining</code>, <code>Web/App Bot</code>, <code>Networking</code>
 - 📚 Skills other than tech: <code>Accounting</code>, <code>Economic Analysis</code>, <code>Project Evaluation</code>, <code>Business Development</code>
 - 📫 Stay in Pakis, Malang, Indonesia
 - 📩 How to reach me: haloo@mufiz.dev
@@ -55,11 +55,11 @@ Here are some things about me:
         </tr> 
         <tr valign="top">
             <td width="100px" align="center">
-            <span><strong>PyTorch</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+            <span><strong>Selenium</strong></span><br>
+            <img height="32px" src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67">
             </td>
             <td width="100px" align="center">
-            <span><strong>Srping</strong></span><br>
+            <span><strong>Spring</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
             </td>
             <td width="100px" align="center">
