@@ -93,20 +93,56 @@ Here are some things about me:
     <tbody>
         <tr valign="top">
             <td width="250px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            <span><strong>Notepad</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/en/2/2a/Notepad.png">
             </td>
             <td width="250px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            <span><strong>Visual Studio Code</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
             </td>
             <td width="250px" align="center">
-            <span><strong>PHP</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+            <span><strong>Notepad++</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg">
             </td>
             <td width="250px" align="center">
-            <span><strong>C#</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+            <span><strong>Codepen</strong></span><br>
+            <img height="32px" src="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg">
+            </td>
+        </tr>
+        <tr hidden>
+            <td width="250px" align="center" hidden>
+            <span><strong>Notepad</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/en/2/2a/Notepad.png">
+            </td>
+            <td width="250px" align="center">
+            <span><strong>Visual Studio Code</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+            </td>
+            <td width="250px" align="center">
+            <span><strong>Notepad++</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg">
+            </td>
+            <td width="250px" align="center">
+            <span><strong>Codepen</strong></span><br>
+            <img height="32px" src="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="250px" align="center">
+            <span><strong>Notepad</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/en/2/2a/Notepad.png">
+            </td>
+            <td width="250px" align="center">
+            <span><strong>Visual Studio Code</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+            </td>
+            <td width="250px" align="center">
+            <span><strong>Notepad++</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg">
+            </td>
+            <td width="250px" align="center">
+            <span><strong>Codepen</strong></span><br>
+            <img height="32px" src="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg">
             </td>
         </tr>
     </tbody>
