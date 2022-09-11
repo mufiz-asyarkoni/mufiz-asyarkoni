@@ -93,4 +93,4 @@ Here are some things about me:
 - <b>WajahKampus</b>: A website-based platform that is able to display data (with photos) of students or alumni from a university in Indonesia based on their name or NIM.
 - <b>IndoBusinessIntelligence</b>: A BI (business intelligence) platform capable of providing summary and business decisions based on open data through macro and micro parameters.
 - <b>KoonekTik</b>: A website-based ERP platform for integrated management for internet service providers. With features consisting of finance, employee management, assignments, network provisioning, to project management.
-- <b>GOPA Dashboard</b>: A website-based admin dashboard capable of automatic input of player data (score, rank, etc.) from a mobile game (Android/iOS) to the backend database.
+- <b>GOPA Dashboard</b>: A website-based admin dashboard capable of automatic input of player data (score, rank, etc.) from a mobile game (Android/iOS) to the backend database via a packet sniffer.
