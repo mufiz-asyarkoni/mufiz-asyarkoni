@@ -1,8 +1,7 @@
 ### Hello Visitor! 👋
 Welcome to my Github Profile
 
-### 👦 About Me
-
+<h2 dir="auto">👦 About Me</h2>
 Here are some things about me:
 
 - ⚔ Working at: <a href="https://www.koonek.net"><code>PT. Kooneksi Internet Indonesia</code><a>, <a href="https://www.samenterprise.co.id"><code>PT. Sam Enterprises Indonesia</code><a>, <a href="https://www.gilga.co.id"><code>PT. Gilga Consulting Group</code><a>
@@ -12,7 +11,8 @@ Here are some things about me:
 - 📫 Stay in Pakis, Malang, Indonesia
 - 📩 How to reach me: haloo@mufiz.dev
 
-### ☂ Languages + Frameworks
+
+<h2 dir="auto">☂ Languages + Frameworks</h2>
 <table width="460px">
     <tbody>
         <tr valign="top">
