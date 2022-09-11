@@ -96,7 +96,8 @@ Here are some things about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufizmq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
-### 🔬 IDE + Tools
+
+<h2 dir="auto">🔬 IDE + Tools</h2>
 <table width="460px">
     <tbody>
         <tr valign="top">
@@ -157,7 +158,7 @@ Here are some things about me:
 </table>
 
 
-### 📋 Research + Development
+<h2 dir="auto">📋 Research + Development</h2>
 - <b>MawarizCalculator</b>: A windows application that is able to perform inheritance calculations for heirs based on the rules and regulations according to Islamic Shari'a or Fiqh Mawaris.
 - <b>WajahKampus</b>: A website-based platform that is able to display data (with photos) of students or alumni from a university in Indonesia based on their name or NIM.
 - <b>IndoBI</b>: A BI (business intelligence) platform capable of providing summary and business decisions based on open data through macro and micro parameters.
