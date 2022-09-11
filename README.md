@@ -1,4 +1,4 @@
-<h2 dir="auto">Hello Visitor! 👋</h2>
+<h2 dir="auto">Hello Visitor! <img src="https://media2.giphy.com/media/FxAYkQqdw63hC/giphy.gif?cid=ecf05e477oz2lvpgcdtc8xhhcytwf9gcp5wim7tspntp11qr&rid=giphy.gif&ct=s" width="60" height="60" alt="hi" style="max-width: 100%;"></h2>
 Welcome to my Github Profile 😁
 
 <h2 dir="auto">👦 About Me</h2>
