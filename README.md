@@ -88,7 +88,7 @@ Here are some things about me:
             </td>
             <td width="100px" align="center">
             <span><strong>MikroTik</strong></span><br>
-            <img height="32px" src="https://mikrotik.com/img/mtv2/newlogo.svg">
+            <img height="32px" src="https://cdn.kibrispdr.org/data/723/mikrotik-logo-png-25.jpg">
             </td>
         </tr> 
     </tbody>
