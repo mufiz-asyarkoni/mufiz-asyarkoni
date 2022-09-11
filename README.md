@@ -94,8 +94,8 @@ Here are some things about me:
     </tbody>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufiz-asyarkoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufiz-asyarkoni&langs_count=8)
+
 
 <h2 dir="auto">🔬 IDE + Tools</h2>
 <table width="460px">
