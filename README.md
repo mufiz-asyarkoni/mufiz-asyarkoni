@@ -90,6 +90,10 @@ Here are some things about me:
     
 ### 🔬 IDE + Tools
 <table width="460px">
+    <thead>
+            <th scope="col">Items</th>
+            <th scope="col">Expenditure</th>
+    </thead>
     <tbody>
         <tr valign="top">
             <td width="250px" align="center">
@@ -109,10 +113,10 @@ Here are some things about me:
             <img height="32px" src="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg">
             </td>
         </tr>
-        <tr hidden>
-            <td width="250px" align="center" hidden>
+        <tr valign="top">
+            <td width="250px" align="center">
             <span><strong>Android Studio</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg">
             </td>
             <td width="250px" align="center">
             <span><strong>Visual Studio</strong></span><br>
