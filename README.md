@@ -111,20 +111,20 @@ Here are some things about me:
         </tr>
         <tr hidden>
             <td width="250px" align="center" hidden>
-            <span><strong>Notepad</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/en/2/2a/Notepad.png">
+            <span><strong>Android Studio</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg">
             </td>
             <td width="250px" align="center">
-            <span><strong>Visual Studio Code</strong></span><br>
-            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+            <span><strong>Visual Studio</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg">
             </td>
             <td width="250px" align="center">
-            <span><strong>Notepad++</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg">
+            <span><strong>PHPStorm</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg">
             </td>
             <td width="250px" align="center">
-            <span><strong>Codepen</strong></span><br>
-            <img height="32px" src="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg">
+            <span><strong>PyCharm</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
             </td>
         </tr>
         <tr valign="top">
