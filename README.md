@@ -59,8 +59,8 @@ Here are some things about me:
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
             </td>
             <td width="100px" align="center">
-            <span><strong>IntelliJ</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+            <span><strong>Srping</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
             </td>
             <td width="100px" align="center">
             <span><strong>Ktor</strong></span><br>
